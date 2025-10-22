@@ -49,7 +49,6 @@ This repository showcases an end‑to‑end **manual QA project** on the public 
 * **Design techniques:** Equivalence classes, boundary values (checkout form), decision tables (auth), state transitions (cart add/remove).
 * **Prioritization:** P0 (happy path blockers), P1 (core variants), P2 (peripheral/edges).
 * **Traceability:** RTM links **Requirements → Scenarios → Test Cases → Results/Defects**.
-
 ---
 
 ## 🧩 How to Read the Artifacts
@@ -92,3 +91,14 @@ Each bug entry includes: **Summary**, **Steps to Reproduce**, **Expected vs Actu
 ## 📣 Why this project?
 
 This repo mirrors a realistic QA workflow while keeping scope focused. It demonstrates how one would structure manual testing in a new team: start from a crisp **Test Plan**, drive **traceable** design, capture **evidence**, report **actionable defects**, and **communicate status** clearly.
+
+-- 
+
+## Short Summary
+
+* **Standard_user** - Every functionality works as expected.
+* **Locked_out_user** - Can not log in.
+* **Problem_user** - Most of the functionality is not working as expected like product display, checkout, product details etc.
+* **Performance_glitch_user**  - Login working but every other functionality is responding very slowly.
+* **Error_user** - Images are not displaying correctly and also other bugs are present.
+* **Visual_user** - Most of the bugs are UI related, icons are not showing properly, Icon/Logo aligning problem etc.
