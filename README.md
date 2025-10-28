@@ -3,6 +3,7 @@
 This repository showcases an end‑to‑end **manual QA project** on the public demo site **SauceDemo (Swag Labs)**. It is designed to demonstrate my test planning, scenario design, traceability, execution discipline, and defect reporting skills.
 
 > **What’s inside:** A complete, set of QA artifacts — **Test Plan**, **Test Scenarios**, **RTM**, **Detailed Test Cases**, **Test Execution Results**, and a **Bug Report** — all linked and consistent.
+> **Website Link :** https://www.saucedemo.com/
 
 ---
 
